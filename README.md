@@ -1,1 +1,1 @@
-# http//:CykaFroes.github.io
+# http://CykaFroes.github.io
